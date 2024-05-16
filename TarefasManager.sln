@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarefasManager", "TarefasManager\TarefasManager.csproj", "{D270366D-48A4-4B10-A6F4-4B28F9699044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarefasManager.Tests", "TarefasManager.Tests\TarefasManager.Tests.csproj", "{5DADA3DF-0EC9-4727-A642-9A439FC813FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D270366D-48A4-4B10-A6F4-4B28F9699044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D270366D-48A4-4B10-A6F4-4B28F9699044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D270366D-48A4-4B10-A6F4-4B28F9699044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D270366D-48A4-4B10-A6F4-4B28F9699044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DADA3DF-0EC9-4727-A642-9A439FC813FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DADA3DF-0EC9-4727-A642-9A439FC813FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DADA3DF-0EC9-4727-A642-9A439FC813FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DADA3DF-0EC9-4727-A642-9A439FC813FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
