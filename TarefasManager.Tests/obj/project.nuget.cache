@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "tMT1hGzCjOOSEpNxWn5Hhhv0vb6qxI11nL25xphkwLdIkUuUm8uU6dcnHKj1Se4ZH8drdbkuHhNWNRFIFLKQPA==",
+  "dgSpecHash": "NcDmw7bcD5ShUnxAnvHGEigy4EE4OwvW1ZIE7XMBifvixTt8eBnSeGOjEQUBmZqJxG0tojpBjOGQpGbtQR9ixw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\DIO\\TarefasManager_DIO\\TarefasManager.Tests\\TarefasManager.Tests.csproj",
+  "projectFilePath": "d:\\Projects\\DIO\\TarefasManager_DIO\\TarefasManager.Tests\\TarefasManager.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thalles\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Thalles\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Thalles\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Thalles\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\Thalles\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\Thalles\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\Thalles\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "C:\\Users\\Thalles\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",

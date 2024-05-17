@@ -242,3 +242,4 @@ D:\Projects\DIO\TarefasManager_DIO\TarefasManager\bin\Debug\net8.0\FluentValidat
 D:\Projects\DIO\TarefasManager_DIO\TarefasManager\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 D:\Projects\DIO\TarefasManager_DIO\TarefasManager\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\Projects\DIO\TarefasManager_DIO\TarefasManager\obj\Debug\net8.0\TarefasM.5904DDC6.Up2Date
+d:\Projects\DIO\TarefasManager_DIO\TarefasManager\obj\Debug\net8.0\TarefasManager.sourcelink.json

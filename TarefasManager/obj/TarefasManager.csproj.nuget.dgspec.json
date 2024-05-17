@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\DIO\\TarefasManager_DIO\\TarefasManager\\TarefasManager.csproj": {}
+    "d:\\Projects\\DIO\\TarefasManager_DIO\\TarefasManager\\TarefasManager.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\DIO\\TarefasManager_DIO\\TarefasManager\\TarefasManager.csproj": {
+    "d:\\Projects\\DIO\\TarefasManager_DIO\\TarefasManager\\TarefasManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\DIO\\TarefasManager_DIO\\TarefasManager\\TarefasManager.csproj",
+        "projectUniqueName": "d:\\Projects\\DIO\\TarefasManager_DIO\\TarefasManager\\TarefasManager.csproj",
         "projectName": "TarefasManager",
-        "projectPath": "D:\\Projects\\DIO\\TarefasManager_DIO\\TarefasManager\\TarefasManager.csproj",
+        "projectPath": "d:\\Projects\\DIO\\TarefasManager_DIO\\TarefasManager\\TarefasManager.csproj",
         "packagesPath": "C:\\Users\\Thalles\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\DIO\\TarefasManager_DIO\\TarefasManager\\obj\\",
+        "outputPath": "d:\\Projects\\DIO\\TarefasManager_DIO\\TarefasManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "porBMvoEmEtxpSBZNupKdrnQ3J/VgGOGdcEznHdxJj9B+zHnyO7OReSA3IsCiqn41FkEOALbbuCTsdmJ2AiOwQ==",
+  "dgSpecHash": "ZuCv4kFf2mU599V89KUdw1ANn7hoUoHSf5svMACnkQQqUH75XQ3MlBTpg7/FGe8TuKM5CYxKpHB/s+0wru1lHA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\DIO\\TarefasManager_DIO\\TarefasManager\\TarefasManager.csproj",
+  "projectFilePath": "d:\\Projects\\DIO\\TarefasManager_DIO\\TarefasManager\\TarefasManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thalles\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Thalles\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

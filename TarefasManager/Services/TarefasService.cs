@@ -19,22 +19,15 @@ public class TarefasService : ITarefasService
         try
         {
             var hasTarefa = ObterPorId(tarefa.Id);
-            if (hasTarefa != null) return TarefasError.ConflictingInsert;
-        }
-        catch (DbException ex)
-        {
-            return TarefasError.HandleException(ex);
-        }
+            if (hasTarefa != null) 
+                return TarefasError.ConflictingInsert;
 
-        try
-        {
             await _tarefasRepository.Adicionar(tarefa);
         }
         catch (DbException ex)
         {
             return TarefasError.HandleException(ex);
         }
-
         return null;
     }
 
@@ -44,14 +37,6 @@ public class TarefasService : ITarefasService
         {
             var hasTarefa = await _tarefasRepository.ObterPorId(tarefa.Id);
             if (hasTarefa is null) return TarefasError.NotFound;
-        }
-        catch (DbException ex)
-        {
-            return TarefasError.HandleException(ex);
-        }
-
-        try
-        {
             await _tarefasRepository.Atualizar(tarefa);
         }
         catch (DbException ex)
@@ -67,13 +52,13 @@ public class TarefasService : ITarefasService
         {
             var hasTarefa = await _tarefasRepository.ObterPorId(tarefa.Id);
             if (hasTarefa is null) return TarefasError.NotFound;
+            await _tarefasRepository.Excluir(tarefa);
         }
         catch (DbException ex)
         {
             return TarefasError.HandleException(ex);
         }
 
-        await _tarefasRepository.Excluir(tarefa);
         return null;
     }
 

@@ -1,5 +1,6 @@
 using System.Text.Json.Serialization;
 using TarefasManager.Data;
+using TarefasManager.Helpers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,6 +27,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.UseMiddleware<ExceptionHandlerHelper>();
 
 app.MapControllers();
 

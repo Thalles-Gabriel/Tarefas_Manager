@@ -25,7 +25,6 @@ public class TarefasController : ApiController, ITarefasController
         if(!validacao.IsValid)
             return BadRequest(validacao.Errors);
 
-
         var errorResult = await _tarefasService.Adicionar(tarefa);
 
         if(errorResult.HasValue)
